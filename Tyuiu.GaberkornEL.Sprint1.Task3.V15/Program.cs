@@ -17,7 +17,7 @@ namespace Tyuiu.GaberkornEL.Sprint1.Task3.V15
             Console.Title = "Спринт #1 | Выполнил: Габеркорн Егор Леонидович  | АСОиУб 25-1";
             Console.WriteLine("*********************************************************************************");
             Console.WriteLine("* Спринт #1                                                                     *");
-            Console.WriteLine("* Тема: Базовые                                                                 *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                       *");
             Console.WriteLine("* Задание #3                                                                    *");
             Console.WriteLine("* Вариант #15                                                                   *");
             Console.WriteLine("* Выполнил: Габеркорн Егор Леонидович | АСОиУб 25-1                             *");

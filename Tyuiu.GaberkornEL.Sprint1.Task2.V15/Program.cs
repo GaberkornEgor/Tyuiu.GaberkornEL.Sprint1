@@ -11,7 +11,7 @@ class Program
         Console.Title = "Спринт #1 | Выполнил: Габеркорн Егор Леонидович | АСОиУб 25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Базовые                                                           *");
+        Console.WriteLine("* Тема: Арифмитические операторы С#                                       *");
         Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #15                                                             *");
         Console.WriteLine("* Выполнил: Габеркорн Егор Леонидович | АСОиУб 25-2                       *");
