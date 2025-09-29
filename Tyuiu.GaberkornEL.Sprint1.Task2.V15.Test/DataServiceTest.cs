@@ -1,19 +1,19 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Diagnostics.Tracing;
 
 using Tyuiu.GaberkornEL.Sprint1.Task2.V15.Lib;
-namespace Tyuiu.GaberkornEL.Sprint1.Task2.V15.Test
+namespace Tyuiu.GaberkornEL.Sprint1.Task2.V15.Test;
+
+[TestClass]
+public class DataServiceTest
 {
-    [TestClass]
-    public sealed class DataServiceTest
+    [TestMethod]
+    public void ValidExpression()
     {
-        [TestMethod]
-        public void ValidExpression()
-        {
-            DataServiceTest ds = new DataServiceTest();
-            int x = 2;
-            var res = ds.CalculateCubeVolume(x);
-            Assert.AreEqual(8, res);
-        }
+        DataService ds = new DataService();
+        int x = 2;
+        var res = ds.CalculateCubeVolume(x);
+        Assert.AreEqual(8, res);
     }
-}
+}    
