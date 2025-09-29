@@ -16,4 +16,4 @@ public class DataServiceTest
         var res = ds.CalculateCubeVolume(x);
         Assert.AreEqual(8, res);
     }
-}    
+}

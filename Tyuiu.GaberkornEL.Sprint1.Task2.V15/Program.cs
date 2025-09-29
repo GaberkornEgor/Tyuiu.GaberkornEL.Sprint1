@@ -26,10 +26,12 @@ namespace Tyuiu.GaberkornEL.Sprint1.Task2.V15
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
+            
+            double x;
 
 
             Console.WriteLine("Введите длину Х: ");
-            int x = Convert.ToInt32(Console.ReadLine());
+            x = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
