@@ -1,9 +1,7 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+﻿namespace Tyuiu.GaberkornEL.Sprint1.Task2.V15.Test;
 using System.Diagnostics.Tracing;
 
 using Tyuiu.GaberkornEL.Sprint1.Task2.V15.Lib;
-namespace Tyuiu.GaberkornEL.Sprint1.Task2.V15.Test;
 
 [TestClass]
 public class DataServiceTest
