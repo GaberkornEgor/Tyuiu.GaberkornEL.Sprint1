@@ -12,7 +12,7 @@ namespace Tyuiu.GaberkornEL.Sprint1.Task0.V26
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1| Выполнил: Габеркорн Е. Л. | ИИПб-23-2";
+            Console.Title = "Спринт #1| Выполнил: Габеркорн Е. Л. | АСОиУб 25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы C#                                          *");
