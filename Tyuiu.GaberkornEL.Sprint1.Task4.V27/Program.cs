@@ -1,7 +1,7 @@
 ﻿using Tyuiu.GaberkornEL.Sprint1.Task4.V27.Lib;
 namespace Tyuiu.GaberkornEL.Sprint1.Task4.V27
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
