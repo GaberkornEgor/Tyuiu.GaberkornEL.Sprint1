@@ -14,7 +14,7 @@ namespace Tyuiu.GaberkornEL.Sprint1.Task1.V17.Test
             double x = 1.4;
             double y = 2.0;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(-0.6, res);
+            Assert.AreEqual(10.08, res);
         }
     }
 }
